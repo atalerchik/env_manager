@@ -1,0 +1,5 @@
+{
+    "env_files_path": "/path/to/your/.env/files",
+    "gpg_key_id": "your-gpg-key-id"
+}
+
